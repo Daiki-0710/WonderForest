@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\ryanw\source\repos\TD1-2\playerMovement.h(39,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'PL' の左辺を無視します。
+C:\Users\ryanw\source\repos\TD1-2\playerCombat.h(13,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'BLT' の左辺を無視します。
+C:\Users\ryanw\source\repos\TD1-2\main.cpp(163,40): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+  map.cpp
+C:\Users\ryanw\source\repos\TD1-2\playerMovement.h(39,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'PL' の左辺を無視します。
+  コードを生成中...
+  TD1-2.vcxproj -> C:\Users\ryanw\source\repos\TD1-2\Debug\TD1-2.exe
